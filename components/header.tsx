@@ -94,7 +94,7 @@ export default function Header() {
               ))}
               <div className="flex items-center justify-center space-x-6 mt-4 pt-4 border-t">
                 <a
-                  href="https://instagram.com"
+                  href="https://www.instagram.com/piny_candle/"
                   target="_blank"
                   rel="noopener noreferrer"
                   className="text-[var(--medium-pink)] hover:text-[var(--deep-pink)] transition-colors duration-300"
@@ -102,7 +102,7 @@ export default function Header() {
                   <Instagram size={24} />
                 </a>
                 <a
-                  href="https://facebook.com"
+                  href="https://www.facebook.com/groups/1657231191355035/"
                   target="_blank"
                   rel="noopener noreferrer"
                   className="text-[var(--medium-pink)] hover:text-[var(--deep-pink)] transition-colors duration-300"
