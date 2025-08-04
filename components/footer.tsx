@@ -59,7 +59,7 @@ export default function Footer() {
             <h4 className="font-playfair text-lg mb-4">Follow Us</h4>
             <div className="flex space-x-4">
               <a
-                href="https://instagram.com"
+                href="https://www.instagram.com/piny_candle/"
                 target="_blank"
                 rel="noopener noreferrer"
                 className="w-10 h-10 bg-[var(--light-pink)]/20 rounded-full flex items-center justify-center text-[var(--deep-pink)] hover:bg-[var(--deep-pink)] hover:text-white transition-all duration-300"
@@ -67,7 +67,7 @@ export default function Footer() {
                 <Instagram size={20} />
               </a>
               <a
-                href="https://facebook.com"
+                href="https://www.facebook.com/groups/1657231191355035/"
                 target="_blank"
                 rel="noopener noreferrer"
                 className="w-10 h-10 bg-[var(--light-pink)]/20 rounded-full flex items-center justify-center text-[var(--deep-pink)] hover:bg-[var(--deep-pink)] hover:text-white transition-all duration-300"
